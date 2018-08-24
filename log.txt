@@ -1,0 +1,506 @@
+Artist Name: "Cake"
+
+Song Name: "Italian Leather Sofa"
+
+Preview Link: "https://p.scdn.co/mp3-preview/349b9175759057f72951d97fd4acf9de3d3ca95c?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Fashion Nugget"
+------------------------------------------------------------
+
+Artist Name: "Cake"
+
+Song Name: "Italian Leather Sofa"
+
+Preview Link: "https://p.scdn.co/mp3-preview/57179e8c95871db86e9dca15c8e2c22c32ee5afd?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Fashion Nugget"
+------------------------------------------------------------
+
+Artist Name: "Cake"
+
+Song Name: "The Distance"
+
+Preview Link: "https://p.scdn.co/mp3-preview/cce7b2be031e4b66652d15793ae1985b197ebb5c?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Fashion Nugget"
+------------------------------------------------------------
+
+Artist Name: "Cake"
+
+Song Name: "The Distance"
+
+Preview Link: "https://p.scdn.co/mp3-preview/9148593231f56039c57d29165542a2932643d90e?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Fashion Nugget"
+------------------------------------------------------------
+
+Artist Name: "Cake"
+
+Song Name: "Nugget"
+
+Preview Link: "https://p.scdn.co/mp3-preview/9adfee660e48b4ec7d6d20236790dacbe326912f?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Fashion Nugget"
+------------------------------------------------------------
+
+Artist Name: "Cake"
+
+Song Name: "Frank Sinatra"
+
+Preview Link: "https://p.scdn.co/mp3-preview/f10078fa1dc1e5dc64847c517c46944349f335a8?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Fashion Nugget"
+------------------------------------------------------------
+
+Artist Name: "Cake"
+
+Song Name: "I Will Survive"
+
+Preview Link: "https://p.scdn.co/mp3-preview/5ec7ceb1dee774bc5bb37a9fb7e7cde9c502d30a?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Fashion Nugget"
+------------------------------------------------------------
+
+Artist Name: "Backstreet Boys"
+
+Song Name: "I Want It That Way"
+
+Preview Link: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "The Hits--Chapter One"
+------------------------------------------------------------
+
+Title: Kill Bill: Vol. 1
+
+Release Year: 2003
+
+IMDB Rating: 8.1
+
+Rotten Tomatoes Rating: 8.1/10
+
+Country: USA
+
+Language: English, Japanese, French
+
+Plot:After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.
+
+Actors:Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah
+------------------------------------------------------------
+
+Venue Name: McMenamins Edgefield
+
+Venue Country: United States
+
+Venue City: Troutdale
+
+Venue Region:OR
+
+Venue Date: 08/24/18
+------------------------------------------------------------
+
+Venue Name: McMenamins Edgefield
+
+Venue Country: United States
+
+Venue City: Troutdale
+
+Venue Region:OR
+
+Venue Date: 08/25/18
+------------------------------------------------------------
+
+Venue Name: Britt Festival Pavilion
+
+Venue Country: United States
+
+Venue City: Jacksonville
+
+Venue Region:OR
+
+Venue Date: 08/30/18
+------------------------------------------------------------
+
+Venue Name: Les Schwab Amphitheater
+
+Venue Country: United States
+
+Venue City: Bend
+
+Venue Region:OR
+
+Venue Date: 08/31/18
+------------------------------------------------------------
+
+Venue Name: Deer Lake Park
+
+Venue Country: Canada
+
+Venue City: Burnaby
+
+Venue Region:
+
+Venue Date: 09/01/18
+------------------------------------------------------------
+
+Venue Name: Bumbershoot Festival
+
+Venue Country: United States
+
+Venue City: Seattle
+
+Venue Region:WA
+
+Venue Date: 09/02/18
+------------------------------------------------------------
+
+Venue Name: Avondale Brewing Company
+
+Venue Country: United States
+
+Venue City: Birmingham
+
+Venue Region:AL
+
+Venue Date: 09/13/18
+------------------------------------------------------------
+
+Venue Name: Music Midtown 
+
+Venue Country: United States
+
+Venue City: Atlanta
+
+Venue Region:GA
+
+Venue Date: 09/15/18
+------------------------------------------------------------
+
+Venue Name: Family Circle Tennis Center
+
+Venue Country: United States
+
+Venue City: Charleston
+
+Venue Region:SC
+
+Venue Date: 09/16/18
+------------------------------------------------------------
+
+Venue Name: Charlotte Metro Credit Union Amphitheatre
+
+Venue Country: United States
+
+Venue City: Charlotte
+
+Venue Region:NC
+
+Venue Date: 09/18/18
+------------------------------------------------------------
+
+Venue Name: The Sugar Mill
+
+Venue Country: United States
+
+Venue City: New Orleans
+
+Venue Region:LA
+
+Venue Date: 09/14/18
+------------------------------------------------------------
+
+Venue Name: Classic Amphitheater
+
+Venue Country: United States
+
+Venue City: Richmond
+
+Venue Region:VA
+
+Venue Date: 09/20/18
+------------------------------------------------------------
+
+Venue Name: Forest Hills Stadium
+
+Venue Country: United States
+
+Venue City: Forest Hills
+
+Venue Region:NY
+
+Venue Date: 09/22/18
+------------------------------------------------------------
+
+Venue Name: Merriweather Post Pavilion
+
+Venue Country: United States
+
+Venue City: Columbia
+
+Venue Region:MD
+
+Venue Date: 09/21/18
+------------------------------------------------------------
+
+Venue Name: Blue Hills Bank Pavilion
+
+Venue Country: United States
+
+Venue City: Boston
+
+Venue Region:MA
+
+Venue Date: 09/23/18
+------------------------------------------------------------
+
+Venue Name: Alaska Airlines Center
+
+Venue Country: United States
+
+Venue City: Anchorage
+
+Venue Region:AK
+
+Venue Date: 10/26/18
+------------------------------------------------------------
+
+Venue Name: Alaska Airlines Center
+
+Venue Country: United States
+
+Venue City: Anchorage
+
+Venue Region:AK
+
+Venue Date: 10/27/18
+------------------------------------------------------------
+
+Title: Mission: Impossible
+
+Release Year: 1996
+
+IMDB Rating: 7.1
+
+Rotten Tomatoes Rating: 7.1/10
+
+Country: USA
+
+Language: English, French, Czech
+
+Plot:An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.
+
+Actors:Tom Cruise, Jon Voight, Emmanuelle Béart, Henry Czerny
+------------------------------------------------------------
+
+Artist Name: "blink-182"
+
+Song Name: "All The Small Things"
+
+Preview Link: null
+
+Album: "Enema Of The State"
+------------------------------------------------------------
+
+Artist Name: "Fame on Fire"
+
+Song Name: "All the Small Things"
+
+Preview Link: "https://p.scdn.co/mp3-preview/c0946e586a6c7673db9e601e97a966280d25d680?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "All the Small Things"
+------------------------------------------------------------
+
+Artist Name: "Scott Bradlee's Postmodern Jukebox"
+
+Song Name: "All The Small Things"
+
+Preview Link: "https://p.scdn.co/mp3-preview/8a39c7a626a1c4f9e8c5717668319cbd646edca5?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Fake Blues"
+------------------------------------------------------------
+
+Artist Name: "blink-182"
+
+Song Name: "All The Small Things"
+
+Preview Link: null
+
+Album: "Greatest Hits"
+------------------------------------------------------------
+
+Artist Name: "blink-182"
+
+Song Name: "All The Small Things"
+
+Preview Link: null
+
+Album: "Enema Of The State"
+------------------------------------------------------------
+
+Artist Name: "blink-182"
+
+Song Name: "All The Small Things"
+
+Preview Link: null
+
+Album: "Enema Of The State"
+------------------------------------------------------------
+
+Artist Name: "Fame on Fire"
+
+Song Name: "All the Small Things"
+
+Preview Link: "https://p.scdn.co/mp3-preview/c0946e586a6c7673db9e601e97a966280d25d680?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "All the Small Things"
+------------------------------------------------------------
+
+Artist Name: "blink-182"
+
+Song Name: "All The Small Things"
+
+Preview Link: null
+
+Album: "Enema Of The State"
+------------------------------------------------------------
+
+Artist Name: "Scott Bradlee's Postmodern Jukebox"
+
+Song Name: "All The Small Things"
+
+Preview Link: "https://p.scdn.co/mp3-preview/8a39c7a626a1c4f9e8c5717668319cbd646edca5?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Fake Blues"
+------------------------------------------------------------
+
+Artist Name: "blink-182"
+
+Song Name: "All The Small Things"
+
+Preview Link: null
+
+Album: "Greatest Hits"
+------------------------------------------------------------
+
+Artist Name: "A$AP Mob"
+
+Song Name: "Yamborghini High"
+
+Preview Link: "https://p.scdn.co/mp3-preview/d93fb61c4d8363799f245f9de4eae8e8183bf7e1?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Yamborghini High"
+------------------------------------------------------------
+
+Artist Name: "A$AP Mob"
+
+Song Name: "Yamborghini High"
+
+Preview Link: "https://p.scdn.co/mp3-preview/2b2483db1076fa226b5d20c2520e2f31a4c4fba1?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Yamborghini High"
+------------------------------------------------------------
+
+Artist Name: "A$AP Mob"
+
+Song Name: "Yamborghini High"
+
+Preview Link: "https://p.scdn.co/mp3-preview/a1eab016d3177906c099a8619f1771226ba57523?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Cozy Tapes: Vol. 1 Friends -"
+------------------------------------------------------------
+
+Artist Name: "A$AP Mob"
+
+Song Name: "Yamborghini High"
+
+Preview Link: "https://p.scdn.co/mp3-preview/5ceef12a6027e77a710613fd1efec0b9fdefe9e1?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "Cozy Tapes: Vol. 1 Friends -"
+------------------------------------------------------------
+
+Title: Sex in the City
+
+Release Year: 2000
+
+IMDB Rating: 7.7
+
+Rotten Tomatoes Rating: 7.7/10
+
+Country: USA
+
+Language: English
+
+Plot:A sexy gay porn twist, MSR-style, on the HBO hit "Sex and the City"...
+
+Actors:Matt Bradshaw, Eric Hanson, Andrew Addams, Patrick Allen
+------------------------------------------------------------
+
+Venue Name: Ace Hotel
+
+Venue Country: United States
+
+Venue City: Los Angeles
+
+Venue Region:CA
+
+Venue Date: 09/10/18
+------------------------------------------------------------
+
+Venue Name: KAABOO
+
+Venue Country: United States
+
+Venue City: Del Mar
+
+Venue Region:CA
+
+Venue Date: 09/14/18
+------------------------------------------------------------
+
+Venue Name: Del Mar Fairgrounds
+
+Venue Country: United States
+
+Venue City: Del Mar
+
+Venue Region:CA
+
+Venue Date: 09/15/18
+------------------------------------------------------------
+
+Venue Name: Del Mar Fairgrounds
+
+Venue Country: United States
+
+Venue City: Del Mar
+
+Venue Region:CA
+
+Venue Date: 09/16/18
+------------------------------------------------------------
+
+Title: Y Tu Mama Tambien
+
+Release Year: 2012
+
+IMDB Rating: 8.3
+
+Rotten Tomatoes Rating: 8.3/10
+
+Country: USA
+
+Language: English
+
+Plot:N/A
+
+Actors:Luis Pazos, Raul Phoenix
+------------------------------------------------------------
+
+Artist Name: "Backstreet Boys"
+
+Song Name: "I Want It That Way"
+
+Preview Link: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=40d9bd03a61742f392a031ac28f2e153"
+
+Album: "The Hits--Chapter One"
+------------------------------------------------------------
+
